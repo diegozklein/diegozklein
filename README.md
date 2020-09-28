@@ -9,6 +9,9 @@
 #### - 📫 How to reach me: https://discord.bio/p/diegoklein  \\  Here you will find my email, instagram and League of Legends nickname(feel free to add me, i'm gold 4)
 #### - ⚡ Fun fact: I'm a big cinema fan.
 
+[![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegozklein)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **diegozklein/diegozklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
