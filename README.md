@@ -9,7 +9,8 @@
 #### - 📫 How to reach me: https://discord.bio/p/diegoklein  \\  Here you will find my email, instagram and League of Legends nickname(feel free to add me, i'm gold 4)
 #### - ⚡ Fun fact: I'm a big cinema fan.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegozklein&show_icons=true&theme=dracula)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
