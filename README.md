@@ -16,7 +16,7 @@
 
 Here are some ideas to get you started:
 
-# - 🔭 I’m currently working on DBServer
+# - 🔭 I’m currently working on DBServe
 # - 🌱 I’m currently learning React, Node.js and Spring Boot using thymeleaf
 # - 👯 I’m looking to collaborate on any projects, i look foward to have diverse experiences
 # - 🤔 I’m looking for help with React
