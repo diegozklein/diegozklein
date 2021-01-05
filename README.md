@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-#### - 🔭 I’m currently working on DBServer
-#### - 🌱 I’m currently learning React, Node.js and Spring Boot using thymeleaf
+#### - 🔭 I’m currently searching for a job
+#### - 🌱 I’m currently learning Node
 #### - 👯 I’m looking to collaborate on any projects, i look foward to have diverse experiences
 #### - 🤔 I’m looking for help with React
 #### - 💬 Ask me about anything. If you ask me something that i don't know, i will search for the right answer, it's a great way to learn new things.
